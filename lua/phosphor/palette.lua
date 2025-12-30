@@ -15,6 +15,8 @@ local M = {
     base0D = "#81a2be",
     base0E = "#b294bb",
     base0F = "#a3685a",
+    green_light = "#8CFF90",
+    green_dark = "#49A64E"
 }
 
 return M
