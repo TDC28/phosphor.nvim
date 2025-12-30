@@ -1,6 +1,6 @@
 local M = {
-    base00 = "#1d1f21",
-    base01 = "#282a2e",
+    base00 = "#0f0f0f",
+    base01 = "#282828",
     base02 = "#373b41",
     base03 = "#969896",
     base04 = "#b4b7b4",
@@ -16,7 +16,8 @@ local M = {
     base0E = "#b294bb",
     base0F = "#a3685a",
     green_light = "#8CFF90",
-    green_dark = "#49A64E"
+    green_dark = "#49A64E",
+    orange = "#DDA68B"
 }
 
 return M
