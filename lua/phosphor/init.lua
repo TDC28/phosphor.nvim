@@ -2,7 +2,7 @@ local M = {}
 
 
 function M.colorscheme()
-    vim.cmd("highlights clear")
+    vim.cmd.hi("clear")
     if vim.fn.has("syntax_on") then vim.cmd("syntax reset") end
 
     vim.o.background = "dark"
